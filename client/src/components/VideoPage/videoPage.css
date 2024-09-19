@@ -1,0 +1,10 @@
+.sub_nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 6px 20px;
+}
+
+.back{
+    display: flex;
+    align-items: center;
+}

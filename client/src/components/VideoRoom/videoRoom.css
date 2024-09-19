@@ -1,0 +1,15 @@
+.room_video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: black;
+}
+
+.room_grid{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    height: 100vh;
+}
