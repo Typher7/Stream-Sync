@@ -1,8 +1,8 @@
 <img width="1460" alt="Screenshot 2024-09-01 at 3 07 14 PM" src="https://github.com/user-attachments/assets/3d8bc00b-77d1-4640-88b8-612adb0cb3bf">
 
-# SyncFlix
+# Stream Sync
 
-SyncFlix is a real-time video streaming web application that allows users to create or join a streaming room where everyone can watch videos in sync. It ensures that new users joining the room will start the video from the current playback time, creating a seamless shared viewing experience.
+Stream Sync is a real-time video streaming web application that allows users to create or join a streaming room where everyone can watch videos in sync. It ensures that new users joining the room will start the video from the current playback time, creating a seamless shared viewing experience.
 
 
 
@@ -35,8 +35,8 @@ SyncFlix is a real-time video streaming web application that allows users to cre
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Ambrose2002/SyncFlix_fullStack.git
-   cd SyncFlix_fullStack
+   git clone https://github.com/Typher7/Stream-Sync
+   cd Stream-Sync
     ```
 2. **Install client and server dependencies:**
 ```bash
